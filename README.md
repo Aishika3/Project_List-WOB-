@@ -35,4 +35,33 @@ The Verification Document Project is a blockchain-based model designed to facili
 - Ethereum Testnet and Polygon serve as testing environments for blockchain-related features, ensuring stability and security.
 
 **Conclusion:**
-The Verification Document Project offers a robust solution for document verification, leveraging blockchain technology to ensure security, reliability, and accessibility. With features like PDF export, QR code verification, and seamless blockchain integration, it provides a user-friendly experience while maintaining data integrity and confidentiality.
+The Verification Document Project offers a robust solution for document verification, leveraging blockchain technology to ensure security, reliability, and accessibility. With features like PDF export, QR code 
+verification, and seamless blockchain integration, it provides a user-friendly experience while maintaining data integrity and confidentiality.
+
+
+2.**Restaurant Review Management System**
+
+**Overview:**
+The Restaurant Review Management System is a Solana-based program designed to facilitate the management of restaurant reviews. Users can add new reviews and update existing ones, with all review data stored securely on the Solana blockchain. The system includes a simple React frontend for easy interaction with the blockchain.
+
+**Features:**
+1. **Add Reviews:** Users can submit new reviews for restaurants, including ratings and descriptions.
+2. **Update Reviews:** Existing reviews can be updated with revised ratings or descriptions.
+3. **On-Chain Storage:** All review data is stored securely on the Solana blockchain, ensuring transparency and immutability.
+4. **Basic Frontend:** A basic React frontend provides users with an intuitive interface for interacting with the blockchain and managing reviews.
+
+**Technologies Used:**
+- Solana: A high-performance blockchain platform for decentralized applications.
+- React: A JavaScript library for building user interfaces.
+- Solana SDK: The Solana Software Development Kit for building Solana programs.
+- React Router: A library for routing in React applications.
+- Solana Wallet: A digital wallet for managing Solana tokens and interacting with the Solana blockchain.
+
+**How to Use:**
+1. **Add Reviews:** Users can submit new reviews by providing ratings and descriptions for restaurants.
+2. **Update Reviews:** Existing reviews can be updated with revised ratings or descriptions as needed.
+3. **View Reviews:** The frontend allows users to view existing reviews for different restaurants.
+4. **Interact with Blockchain:** Users can interact with the Solana blockchain directly through the frontend to manage reviews securely.
+
+**Conclusion:**
+The Restaurant Review Management System provides a convenient and secure way to manage restaurant reviews using blockchain technology. With features for adding, updating, and viewing reviews, along with on-chain storage for data integrity, it offers a reliable solution for restaurant owners and customers alike.
