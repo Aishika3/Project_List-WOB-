@@ -66,7 +66,7 @@ The Restaurant Review Management System is a Solana-based program designed to fa
 **Conclusion:**
 The Restaurant Review Management System provides a convenient and secure way to manage restaurant reviews using blockchain technology. With features for adding, updating, and viewing reviews, along with on-chain storage for data integrity, it offers a reliable solution for restaurant owners and customers alike.
 
-# 3. Project Description:
+# 3. DApp to lock funds of users:
 The project aims to create a DApp that allows users to lock funds for a specified duration using smart contracts deployed on the Ethereum blockchain. Once the lock period expires, users can withdraw their locked funds. This functionality can be useful for various purposes such as time-locked savings, token vesting schedules, or other time-dependent operations.
 
 ### Technology Stack:
