@@ -65,3 +65,34 @@ The Restaurant Review Management System is a Solana-based program designed to fa
 
 **Conclusion:**
 The Restaurant Review Management System provides a convenient and secure way to manage restaurant reviews using blockchain technology. With features for adding, updating, and viewing reviews, along with on-chain storage for data integrity, it offers a reliable solution for restaurant owners and customers alike.
+
+3.### Project Description:
+The project aims to create a DApp that allows users to lock funds for a specified duration using smart contracts deployed on the Ethereum blockchain. Once the lock period expires, users can withdraw their locked funds. This functionality can be useful for various purposes such as time-locked savings, token vesting schedules, or other time-dependent operations.
+
+### Technology Stack:
+1. **Ethereum Blockchain**: The decentralized platform where the smart contracts are deployed and executed. Ethereum provides the infrastructure for decentralized applications and smart contracts.
+
+2. **Solidity**: The programming language used to write smart contracts for the Ethereum blockchain. Solidity is specifically designed for creating contracts and executing them on the Ethereum Virtual Machine (EVM).
+
+3. **Hardhat**: Hardhat is a popular development environment for Ethereum smart contracts. It provides a wide range of tools for compiling, testing, debugging, and deploying smart contracts. In this project, Hardhat is used for contract deployment, testing, and scripting.
+
+4. **Chai**: Chai is a testing framework for JavaScript applications. In this project, it's used for writing unit tests for the smart contracts to ensure their correctness and functionality.
+
+5. **Hardhat-Toolbox**: Hardhat-Toolbox is a collection of utilities and helpers for Ethereum development with Hardhat. It includes tools for network management, time manipulation in tests, and other helpful functions.
+
+6. **Node.js**: Node.js is a JavaScript runtime environment that allows running JavaScript code outside of a web browser. In this project, it's used for scripting, running tests, and managing dependencies.
+
+7. **Nomic Labs Tooling**: Specifically, `@nomicfoundation/hardhat-toolbox` and `@nomicfoundation/hardhat-chai-matchers/withArgs` are used for additional utilities and matchers to enhance testing capabilities in Hardhat.
+
+### Workflow:
+1. **Contract Development**: Smart contracts are written in Solidity to define the locking and withdrawing functionality.
+
+2. **Testing**: Unit tests are written using Chai to ensure that the smart contracts behave as expected under different scenarios. Hardhat is used to run these tests and provide a test environment.
+
+3. **Deployment**: Hardhat is utilized to deploy the smart contracts onto an Ethereum network, either a testnet or the Ethereum mainnet.
+
+4. **Scripting**: JavaScript scripts are written to automate tasks such as contract deployment, interacting with deployed contracts, or other operations related to the DApp.
+
+5. **Integration and Frontend Development**: Once the smart contracts are deployed and tested, they can be integrated into a frontend interface using web development technologies such as HTML, CSS, and JavaScript. This frontend allows users to interact with the smart contracts through a user-friendly interface.
+
+Overall, the project leverages a combination of Ethereum, Solidity, Hardhat, and testing frameworks to develop, test, and deploy decentralized applications with secure and reliable smart contracts.
