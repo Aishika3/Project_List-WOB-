@@ -1,7 +1,7 @@
 # Project_List-WOB-
 Project lists for WOB
 
-1.**Verification Document Project Overview:**
+# 1.Verification Document Project Overview:
 
 The Verification Document Project is a blockchain-based model designed to facilitate document verification. It offers the capability to verify documents by exporting them as PDF files when required. Additionally, the system employs QR codes for verification purposes.
 
@@ -39,7 +39,7 @@ The Verification Document Project offers a robust solution for document verifica
 verification, and seamless blockchain integration, it provides a user-friendly experience while maintaining data integrity and confidentiality.
 
 
-2.**Restaurant Review Management System**
+# 2.Restaurant Review Management System
 
 **Overview:**
 The Restaurant Review Management System is a Solana-based program designed to facilitate the management of restaurant reviews. Users can add new reviews and update existing ones, with all review data stored securely on the Solana blockchain. The system includes a simple React frontend for easy interaction with the blockchain.
