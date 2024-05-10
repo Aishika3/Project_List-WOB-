@@ -98,7 +98,7 @@ The project aims to create a DApp that allows users to lock funds for a specifie
 Overall, the project leverages a combination of Ethereum, Solidity, Hardhat, and testing frameworks to develop, test, and deploy decentralized applications with secure and reliable smart contracts.
 
 
-# 4.### Expenser: Blockchain-Integrated Expenditure Management System
+# 4. Expenser: Blockchain-Integrated Expenditure Management System
 
 #### Project Overview:
 Expenser is a dynamic full-stack website designed to help users manage their expenditures and generate monthly expenditure PDF reports. Users can register, log their expenses, view their expenditure history, and print monthly reports for their records.
@@ -352,7 +352,7 @@ The Blockchain-Based AI Game with NFT Integration is an innovative project that 
 #### Conclusion:
 The Blockchain-Based AI Game with NFT Integration offers a unique and immersive gaming experience that combines AI creativity, blockchain technology, and NFT ownership. By leveraging the power of AI algorithms for picture generation and blockchain for NFT creation and trading, the game provides players with endless possibilities for creativity, interaction, and value creation within a decentralized gaming ecosystem.
 
-# 10.### Blockchain-Based Trading Platform
+# 10. Blockchain-Based Trading Platform
 
 #### Overview:
 The Blockchain-Based Trading Platform is a cutting-edge project that leverages blockchain technology to create a secure, transparent, and efficient trading environment. This platform enables users to trade various financial assets, including cryptocurrencies, tokens, stocks, and commodities, with the benefits of decentralized transactions and immutable record-keeping.
